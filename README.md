@@ -18,7 +18,7 @@ amplify push
 
 npm install --save aws-amplify @aws-amplify/ui-react
 
-
+![11](https://user-images.githubusercontent.com/35077695/148702964-faa58b83-9ebc-47da-bbc1-87505c5ce8c8.PNG)
 
 
 ![2](https://user-images.githubusercontent.com/35077695/148702900-29664011-655a-403f-8cb0-3f4a37db4ab6.PNG)
