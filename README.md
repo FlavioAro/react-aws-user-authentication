@@ -1,3 +1,8 @@
+# In this video we'll be setting up a new React App with AWS Amplify to add Sign up, Login and Logout in the easiest way possible.
+
+### Video link showing how it works:
+https://www.youtube.com/watch?v=iF27-T2jQ2s
+
 # Getting Started
 
 npx create-react-app aws-user-authentication-reactjs
